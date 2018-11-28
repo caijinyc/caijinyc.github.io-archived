@@ -35,13 +35,19 @@ main {
 }
 
 .about {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   font-size: 12px;
   color: #7b7c7d;
 }
 
+.about-avatar {
+  margin-bottom: 12px;
+  font-size: 12px;
+  color: #2b2b2b;
+}
+
 .href {
-  margin-bottom: 25px;
+  margin-bottom: 75px;
 }
 
 .href > a {
